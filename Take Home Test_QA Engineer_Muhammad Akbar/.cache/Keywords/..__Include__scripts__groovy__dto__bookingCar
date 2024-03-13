@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "CD992870998AECD8540CDCAFAA861893",
+  "keywordClasses": [
+    {
+      "name": "dto.bookingCar",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
