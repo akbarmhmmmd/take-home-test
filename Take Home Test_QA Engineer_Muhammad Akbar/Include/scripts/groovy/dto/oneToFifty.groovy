@@ -37,8 +37,8 @@ public class oneToFifty {
 		WebUI.maximizeWindow();
 		WebDriver driver = DriverFactory.getWebDriver();
 
-		for (int i = 99; i >= 50; i--) {
-			WebElement numberElement = driver.findElement(By.xpath("//span[@style='z-index:${i}']"));
+		for (int i = 1; i <= 50; i++) {
+			WebElement numberElement = driver.findElement(By.xpath("//*[@class='grid x5']//div[(text() = '${i}')]"));
 			numberElement.click();
 		}
 

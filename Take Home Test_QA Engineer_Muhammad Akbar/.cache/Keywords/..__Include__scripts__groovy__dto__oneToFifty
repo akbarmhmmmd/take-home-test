@@ -1,10 +1,10 @@
 {
-  "keywordFileContentHash": "8EC0AFB3BBDFEB8AE2B2BC0CAB560C36",
+  "keywordFileContentHash": "3549C6390AC75B931901CF0BE98D1B2B",
   "keywordClasses": [
     {
       "name": "dto.oneToFifty",
       "keywordMethods": []
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
